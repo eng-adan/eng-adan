@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Muhammad Adan Sarfraz
 
-**Senior Software Engineer** | React.js | Ruby on Rails | Node.js | Web Development
+**Senior Software Engineer** | React.js | Ruby on Rails | Node.js | Python | Web Development
 
 ---
 
