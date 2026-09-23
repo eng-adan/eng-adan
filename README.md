@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I am a passionate and experienced Senior Software Engineer with a strong background in JavaScript, TypeScript, React.js, Ruby on Rails (RoR), Node.js, and MongoDB. I excel in building scalable and robust web applications, leading cross-functional teams, and fostering a collaborative and innovative environment.
+I am a passionate and experienced Senior Software Engineer with a strong background in Python, JavaScript, TypeScript, React.js, Ruby on Rails (RoR), Node.js, and MongoDB. I excel in building scalable and robust web applications, leading cross-functional teams, and fostering a collaborative and innovative environment.
 
 - 🔭 Currently working on various web development projects at [letsremotify](https://letsremotify.com).
 - 🌱 Continuously learning and expanding my skillset in the latest technologies and frameworks.
